@@ -80,6 +80,7 @@ export const TOOLTIP_OFFSET = 12
 export const HOVER_DELAY_MS = 300
 export const ZOOM_PERCENTAGE_MULTIPLIER = 100
 export const DIALOG_POSITION_OFFSET = 200
+export const CONTEXT_MENU_Y_OFFSET_MULTIPLIER = 10
 
 /* =========================
    View / Fit
